@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2nd-year-mnc/static/css/main.6752cf01.css",
+    "main.js": "/2nd-year-mnc/static/js/main.72cb7d1a.js",
+    "index.html": "/2nd-year-mnc/index.html",
+    "main.6752cf01.css.map": "/2nd-year-mnc/static/css/main.6752cf01.css.map",
+    "main.72cb7d1a.js.map": "/2nd-year-mnc/static/js/main.72cb7d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6752cf01.css",
+    "static/js/main.72cb7d1a.js"
+  ]
+}
