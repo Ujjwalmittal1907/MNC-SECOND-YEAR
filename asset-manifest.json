@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MNC-SECOND-YEAR/static/css/main.6752cf01.css",
-    "main.js": "/MNC-SECOND-YEAR/static/js/main.72cb7d1a.js",
+    "main.css": "/MNC-SECOND-YEAR/static/css/main.5cb805c2.css",
+    "main.js": "/MNC-SECOND-YEAR/static/js/main.b07ec074.js",
     "index.html": "/MNC-SECOND-YEAR/index.html",
-    "main.6752cf01.css.map": "/MNC-SECOND-YEAR/static/css/main.6752cf01.css.map",
-    "main.72cb7d1a.js.map": "/MNC-SECOND-YEAR/static/js/main.72cb7d1a.js.map"
+    "main.5cb805c2.css.map": "/MNC-SECOND-YEAR/static/css/main.5cb805c2.css.map",
+    "main.b07ec074.js.map": "/MNC-SECOND-YEAR/static/js/main.b07ec074.js.map"
   },
   "entrypoints": [
-    "static/css/main.6752cf01.css",
-    "static/js/main.72cb7d1a.js"
+    "static/css/main.5cb805c2.css",
+    "static/js/main.b07ec074.js"
   ]
 }
